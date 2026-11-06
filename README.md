@@ -1,5 +1,6 @@
 # Voltix — Electronics Store Pro
-
+                      Created by : Ayoub Saadaoui
+                      
 Voltix is a modern, responsive electronics storefront developed with a Node.js backend. The project combines a polished shopping interface with a secure authentication system designed to demonstrate full-stack web development fundamentals.
 
 **Key Features**
